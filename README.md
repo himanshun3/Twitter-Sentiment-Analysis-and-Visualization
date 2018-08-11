@@ -9,6 +9,11 @@ Twitter Sentiment Analysis and Visualization on Google Maps(Heat Maps).
 ![screenshot from 2018-08-11 12-06-54](https://user-images.githubusercontent.com/26146801/43989047-4e34e56e-9d60-11e8-9fe2-74c772d20f7a.png)
 
 
+Where People are talking positive about a particular topic and where they are talking neutral or negative.
+
+#Red for negative tweets
+#Yellow for Neutral tweets
+#Green for Positive tweets
 
 ![map](https://user-images.githubusercontent.com/26146801/43989054-6b256dec-9d60-11e8-992a-09b8bb2114da.png)
 
